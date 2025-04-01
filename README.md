@@ -7,4 +7,4 @@ Iniciante na programação, em transição de carreira. 💻
 
 Contate comigo:
 
-<a href="https://https://www.linkedin.com/in/j%C3%BAlia-zamperlini-013778115" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://https://https://www.linkedin.com/in/j%C3%BAlia-zamperlini-013778115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
